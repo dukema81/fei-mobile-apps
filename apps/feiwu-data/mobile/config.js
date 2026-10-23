@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞物数据管理系统", "short": "飞物", "base": "/data/", "color": "#0e7490", "dash": null, "tabs": [["🗄️", "数据集", "/api/datasets", "数据集"], ["📏", "指标", "/api/metrics", "指标"], ["🚨", "告警", "/api/alerts", "质量告警"]], "tokenKey": "feiwu_data_m_token", "key": "feiwudata", "login": null, "user": "admin", "pwd": "123456"};

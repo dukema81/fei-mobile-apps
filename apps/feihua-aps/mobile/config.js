@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞划APS系统", "short": "飞划APS", "base": "/aps/", "color": "#c2410c", "dash": null, "tabs": [["🏭", "工单", "/api/work-orders", "生产工单"], ["📥", "订单", "/api/sales-orders", "销售订单"], ["🧱", "物料", "/api/materials", "物料"]], "tokenKey": "feihua_aps_m_token", "key": "feihuaaps", "login": "/api/auth/login", "user": "admin", "pwd": "aps@2026"};

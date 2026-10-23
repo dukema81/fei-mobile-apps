@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞效OA管理系统", "short": "飞效OA", "base": "/oa/", "color": "#2563eb", "dash": "/api/dashboard", "tabs": [["🏖️", "请假", "/api/leaves", "请假申请"], ["📅", "会议", "/api/meetings", "会议"], ["💸", "报销", "/api/expenses", "费用报销"]], "tokenKey": "feixiao_oa_m_token", "key": "feixiaooa", "login": "/api/auth/login", "user": "admin", "pwd": "oa@2026"};

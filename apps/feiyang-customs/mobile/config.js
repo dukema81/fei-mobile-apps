@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞扬关务系统", "short": "飞扬", "base": "/cus/", "color": "#7e22ce", "dash": null, "tabs": [["🛃", "报关", "/api/declarations", "报关单"], ["📖", "税则", "/api/hs", "HS税则"], ["🤝", "往来", "/api/partners", "关务往来"]], "tokenKey": "feiyang_customs_m_token", "key": "feiyangcustoms", "login": "/api/auth/login", "user": "admin", "pwd": "admin123"};

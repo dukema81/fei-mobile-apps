@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞奔成本管理系统", "short": "飞奔", "base": "/cost/", "color": "#4f46e5", "dash": "/api/board", "tabs": [["💸", "费用", "/api/expenses", "费用归集"], ["🎯", "预算", "/api/budgets", "成本预算"], ["📊", "差异", "/api/variances", "成本差异"]], "tokenKey": "feiben_cost_m_token", "key": "feibencost", "login": "/api/auth/login", "user": "admin", "pwd": "cost@2026"};

@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞控QMS系统", "short": "飞控QMS", "base": "/qms/", "color": "#0f766e", "dash": "/api/board", "tabs": [["🔍", "检验", "/api/inspections", "质量检验"], ["🐞", "缺陷", "/api/defects", "缺陷"], ["⛔", "NCR", "/api/ncrs", "不合格品"]], "tokenKey": "feikong_qms_m_token", "key": "feikongqms", "login": null, "user": "admin", "pwd": "123456"};

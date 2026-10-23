@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞育教育管理系统", "short": "飞育", "base": "/edu/", "color": "#059669", "dash": "/api/dashboard", "tabs": [["🎓", "学生", "/api/students", "学籍"], ["📝", "成绩", "/api/scores", "成绩"], ["💳", "缴费", "/api/fees", "学费缴费"]], "tokenKey": "feiyu_edu_m_token", "key": "feiyuedu", "login": "/api/auth/login", "user": "admin", "pwd": "123456"};

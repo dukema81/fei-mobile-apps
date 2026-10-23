@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞云财务核算系统", "short": "飞云", "base": "/fin/", "color": "#475569", "dash": null, "tabs": [["📒", "凭证", "/api/vouchers", "会计凭证"], ["📄", "事件", "/api/events", "业务事件"]], "tokenKey": "feiyun_finance_m_token", "key": "feiyunfinance", "login": "/api/auth/login", "user": "admin", "pwd": "admin123"};

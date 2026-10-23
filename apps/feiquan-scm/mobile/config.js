@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞泉SCM系统", "short": "飞泉SCM", "base": "/scm/", "color": "#1d7fd8", "dash": null, "tabs": [["📥", "订单", "/api/orders", "采购订单"], ["📝", "请购", "/api/requisitions", "请购单"], ["🤝", "供应商", "/api/suppliers", "供应商"]], "tokenKey": "feiquan_scm_m_token", "key": "feiquanscm", "login": null, "user": "admin", "pwd": "123456"};

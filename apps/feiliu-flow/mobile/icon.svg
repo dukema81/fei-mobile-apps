@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
-  <rect width="192" height="192" rx="36" fill="#0369a1"/>
-  <path d="M96 30 L140 52 V96 C140 128 120 148 96 158 C72 148 52 128 52 96 V52 Z" fill="#ffffff" opacity=".92"/>
-  <circle cx="96" cy="88" r="22" fill="#0369a1"/>
-  <text x="96" y="97" font-size="26" font-weight="bold" text-anchor="middle" fill="#fff" font-family="sans-serif">飞</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0369a1"/><stop offset="1" stop-color="#014163"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#g)"/><circle cx="256" cy="256" r="212" fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="10"/><g fill="#ffffff"><rect x="128" y="140" width="110" height="76" rx="16"/><rect x="274" y="296" width="110" height="76" rx="16"/><path d="M238 178h74a24 24 0 0 1 24 24v70" fill="none" stroke="#fff" stroke-width="22"/><path d="M312 260l24 36 24-36z"/><path d="M274 334h-74a24 24 0 0 1-24-24v-70" fill="none" stroke="#fff" stroke-width="22" opacity=".85"/><path d="M200 272l-24-36-24 36z" opacity=".85"/></g></svg>

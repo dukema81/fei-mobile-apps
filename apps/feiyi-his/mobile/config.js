@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞医医疗管理系统", "short": "飞医HIS", "base": "/his/", "color": "#0d9488", "dash": "/api/dashboard", "tabs": [["🏥", "挂号", "/api/registrations", "门诊挂号"], ["🧑‍🤝‍🧑", "患者", "/api/patients", "患者档案"], ["💊", "处方", "/api/prescriptions", "处方"]], "tokenKey": "feiyi_his_m_token", "key": "feiyihis", "login": null, "user": "admin", "pwd": "123456"};

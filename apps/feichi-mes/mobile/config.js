@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞驰MES系统", "short": "飞驰MES", "base": "/mes/", "color": "#b91c1c", "dash": "/api/board", "tabs": [["🏭", "工单", "/api/orders", "生产工单"], ["📝", "报工", "/api/prod-reports", "生产报工"], ["🩹", "缺陷", "/api/defects", "质量缺陷"]], "tokenKey": "feichi_mes_m_token", "key": "feichimes", "login": null, "user": "admin", "pwd": "123456"};

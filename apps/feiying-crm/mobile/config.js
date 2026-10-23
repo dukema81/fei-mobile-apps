@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞鹰CRM系统", "short": "飞鹰CRM", "base": "/crm/", "color": "#d97706", "dash": null, "tabs": [["🏢", "客户", "/api/customers", "客户"], ["🎣", "线索", "/api/leads", "销售线索"], ["💼", "商机", "/api/opportunities", "商机"]], "tokenKey": "feiying_crm_m_token", "key": "feiyingcrm", "login": null, "user": "admin", "pwd": "123456"};

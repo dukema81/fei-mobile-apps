@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞传WMS系统", "short": "飞传WMS", "base": "/wms/", "color": "#9333ea", "dash": "/api/board", "tabs": [["📥", "订单", "/api/orders", "出入库单"], ["📦", "库存", "/api/stock", "库存"], ["🗺️", "库位", "/api/locations", "库位"]], "tokenKey": "feichuan_wms_m_token", "key": "feichuanwms", "login": null, "user": "admin", "pwd": "123456"};

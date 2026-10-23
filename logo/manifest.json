@@ -1,0 +1,122 @@
+[
+ {
+  "proj": "feirong-fms",
+  "name": "飞融金融管理系统",
+  "color": "#1d4ed8"
+ },
+ {
+  "proj": "feishou-rms",
+  "name": "飞售零售管理系统",
+  "color": "#b45309"
+ },
+ {
+  "proj": "feican-rms",
+  "name": "飞餐餐饮管理系统",
+  "color": "#dc2626"
+ },
+ {
+  "proj": "feiyi-his",
+  "name": "飞医医疗管理系统",
+  "color": "#0d9488"
+ },
+ {
+  "proj": "feishui-tax",
+  "name": "飞税税务管理系统",
+  "color": "#7c3aed"
+ },
+ {
+  "proj": "feixiao-oa",
+  "name": "飞效OA管理系统",
+  "color": "#2563eb"
+ },
+ {
+  "proj": "feiyu-edu",
+  "name": "飞育教育管理系统",
+  "color": "#059669"
+ },
+ {
+  "proj": "feiyun-tms",
+  "name": "飞运运输管理系统",
+  "color": "#ea580c"
+ },
+ {
+  "proj": "feihua-aps",
+  "name": "飞划APS系统",
+  "color": "#c2410c"
+ },
+ {
+  "proj": "feipu-energy",
+  "name": "飞瀑能源管理系统",
+  "color": "#0891b2"
+ },
+ {
+  "proj": "feiben-cost",
+  "name": "飞奔成本管理系统",
+  "color": "#4f46e5"
+ },
+ {
+  "proj": "feihua-hrm",
+  "name": "飞花HRM系统",
+  "color": "#be185d"
+ },
+ {
+  "proj": "feikong-qms",
+  "name": "飞控QMS系统",
+  "color": "#0f766e"
+ },
+ {
+  "proj": "feichuan-wms",
+  "name": "飞传WMS系统",
+  "color": "#9333ea"
+ },
+ {
+  "proj": "feichi-mes",
+  "name": "飞驰MES系统",
+  "color": "#b91c1c"
+ },
+ {
+  "proj": "feiquan-scm",
+  "name": "飞泉SCM系统",
+  "color": "#1d7fd8"
+ },
+ {
+  "proj": "feiyuan-erp",
+  "name": "飞鸢ERP系统",
+  "color": "#334155"
+ },
+ {
+  "proj": "feiying-crm",
+  "name": "飞鹰CRM系统",
+  "color": "#d97706"
+ },
+ {
+  "proj": "feiliu-flow",
+  "name": "飞流流程管理系统",
+  "color": "#0369a1"
+ },
+ {
+  "proj": "feihong-stock",
+  "name": "飞虹股票交易系统",
+  "color": "#b91c1c"
+ },
+ {
+  "proj": "feiyang-customs",
+  "name": "飞扬关务系统",
+  "color": "#7e22ce"
+ },
+ {
+  "proj": "feiyun-finance",
+  "name": "飞云财务核算系统",
+  "color": "#475569"
+ },
+ {
+  "proj": "feiwu-data",
+  "name": "飞物数据管理系统",
+  "color": "#0e7490"
+ },
+ {
+  "proj": "feiyang-otms",
+  "name": "飞洋海洋运输管理系统",
+  "color": "#0e7490"
+ }
+]

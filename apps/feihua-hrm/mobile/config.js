@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞花HRM系统", "short": "飞花HRM", "base": "/hr/", "color": "#be185d", "dash": "/api/board", "tabs": [["👥", "员工", "/api/employees", "员工档案"], ["🏖️", "假勤", "/api/leaves", "请假"], ["💵", "薪酬", "/api/payroll", "薪酬"]], "tokenKey": "feihua_hrm_m_token", "key": "feihuahrm", "login": "/api/auth/login", "user": "admin", "pwd": "hr@2026"};

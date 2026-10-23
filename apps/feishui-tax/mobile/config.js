@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞税税务管理系统", "short": "飞税", "base": "/tax/", "color": "#7c3aed", "dash": "/api/dashboard", "tabs": [["📋", "申报", "/api/declarations", "纳税申报"], ["🧾", "发票", "/api/invoices", "发票"], ["⚠️", "风险", "/api/risks", "税务风险"]], "tokenKey": "feishui_tax_m_token", "key": "feishuitax", "login": "/api/auth/login", "user": "admin", "pwd": "tax@2026"};

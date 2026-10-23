@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞运运输管理系统", "short": "飞运TMS", "base": "/tms/", "color": "#ea580c", "dash": "/api/dashboard", "tabs": [["🚚", "运单", "/api/waybills", "运单"], ["🛣️", "调度", "/api/dispatches", "车辆调度"], ["🚛", "车辆", "/api/vehicles", "车辆"]], "tokenKey": "feiyun_tms_m_token", "key": "feiyuntms", "login": null, "user": "admin", "pwd": "123456"};

@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞虹股票交易系统", "short": "飞虹", "base": "/fh/", "color": "#b91c1c", "dash": null, "tabs": [["📈", "持仓", "/api/positions", "持仓"], ["🧾", "委托", "/api/orders", "委托单"], ["📡", "信号", "/api/signals", "交易信号"]], "tokenKey": "feihong_stock_m_token", "key": "feihongstock", "login": "/api/auth/login", "user": "admin", "pwd": "admin123"};

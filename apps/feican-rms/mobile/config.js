@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞餐餐饮管理系统", "short": "飞餐RMS", "base": "/rms/", "color": "#dc2626", "dash": "/api/dashboard", "tabs": [["🍽️", "订单", "/api/orders", "餐饮订单"], ["🥘", "菜品", "/api/dishes", "菜品"], ["📦", "库存", "/api/inventory", "食材库存"]], "tokenKey": "feican_rms_m_token", "key": "feicanrms", "login": null, "user": "admin", "pwd": "123456"};

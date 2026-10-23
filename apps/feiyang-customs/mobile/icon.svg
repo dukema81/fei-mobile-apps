@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
-  <rect width="192" height="192" rx="36" fill="#7e22ce"/>
-  <path d="M96 30 L140 52 V96 C140 128 120 148 96 158 C72 148 52 128 52 96 V52 Z" fill="#ffffff" opacity=".92"/>
-  <circle cx="96" cy="88" r="22" fill="#7e22ce"/>
-  <text x="96" y="97" font-size="26" font-weight="bold" text-anchor="middle" fill="#fff" font-family="sans-serif">飞</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7e22ce"/><stop offset="1" stop-color="#4e157f"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#g)"/><circle cx="256" cy="256" r="212" fill="none" stroke="#ffffff" stroke-opacity=".16" stroke-width="10"/><g fill="#ffffff"><path d="M256 118l128 46v98c0 80-54 124-128 142-74-18-128-62-128-142v-98z"/><path d="M196 256h120M256 196v120" stroke="#0f172a" stroke-width="26" stroke-linecap="round"/></g></svg>

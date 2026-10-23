@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞融金融管理系统", "short": "飞融FMS", "base": "/finan/", "color": "#1d4ed8", "dash": "/api/dashboard", "tabs": [["📒", "凭证", "/api/vouchers", "会计凭证"], ["💰", "账单", "/api/bills", "应收应付"], ["🤝", "往来", "/api/partners", "往来单位"]], "tokenKey": "feirong_fms_m_token", "key": "feirongfms", "login": null, "user": "admin", "pwd": "123456"};

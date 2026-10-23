@@ -313,8 +313,10 @@ def gen(proj):
         "orientation": "portrait", "theme_color": c["color"], "background_color": "#0f172a",
         "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}],
     }, ensure_ascii=False, indent=2))
+    from gen_logos import logo_svg, G as _G
+    _glyph = _G.get(proj) or _G.get("feirong-fms")
     io.open(os.path.join(root, "icon.svg"), "w", encoding="utf-8").write(
-        ICON_TPL.replace("__COLOR__", c["color"]).replace("__CHAR__", c["short"][:1]))
+        logo_svg(c["color"], _glyph))
     io.open(os.path.join(root, "sw.js"), "w", encoding="utf-8").write(
         SW_JS.replace("__KEY__", proj.replace("-", "")))
     return root

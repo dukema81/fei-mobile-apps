@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞流流程管理系统", "short": "飞流BPM", "base": "/flow/", "color": "#0369a1", "dash": "/api/stats", "tabs": [["📬", "待办", "/api/tasks", "待办任务"], ["🔄", "实例", "/api/instances", "流程实例"], ["🧩", "流程", "/api/flows", "流程模型"]], "tokenKey": "feiliu_flow_m_token", "key": "feiliuflow", "login": "/api/auth/login", "user": "admin", "pwd": "admin123"};

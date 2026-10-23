@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#b91c1c">
+<title>飞驰MES系统</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg">
+<link rel="apple-touch-icon" href="icon.svg">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header id="hd"><span id="hd-title">飞驰MES</span><span id="hd-user" onclick="logout()">退出</span></header>
+  <main id="main"></main>
+  <nav id="tabbar">
+    <a data-tab="dash" class="on"><i>📋</i><b>工作台</b></a>
+    <a data-tab="t0"><i>🏭</i><b>工单</b></a><a data-tab="t1"><i>📝</i><b>报工</b></a><a data-tab="t2"><i>🩹</i><b>缺陷</b></a>
+    <a data-tab="me"><i>👤</i><b>我的</b></a>
+  </nav>
+</div>
+<div id="toast"></div>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

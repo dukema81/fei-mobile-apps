@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞鸢ERP系统", "short": "飞鸢ERP", "base": "/erp/", "color": "#334155", "dash": null, "tabs": [["🛒", "销售", "/api/sales-orders", "销售订单"], ["📦", "采购", "/api/purchase-orders", "采购订单"], ["🗃️", "库存", "/api/inventory", "库存"]], "tokenKey": "feiyuan_erp_m_token", "key": "feiyuanerp", "login": "/api/auth/login", "user": "admin", "pwd": "admin123"};

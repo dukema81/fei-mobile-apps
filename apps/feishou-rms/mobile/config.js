@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞售零售管理系统", "short": "飞售RMS", "base": "/retail/", "color": "#b45309", "dash": "/api/dashboard", "tabs": [["🧾", "销售", "/api/sales", "销售单"], ["🛒", "商品", "/api/commodities", "商品档案"], ["🏬", "门店", "/api/stores", "门店"]], "tokenKey": "feishou_rms_m_token", "key": "feishourms", "login": null, "user": "admin", "pwd": "123456"};

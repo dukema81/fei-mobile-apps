@@ -1,0 +1,1 @@
+window.APP_CONFIG = {"name": "飞瀑能源管理系统", "short": "飞瀑", "base": "/pu/", "color": "#0891b2", "dash": null, "tabs": [["⚡", "抄表", "/api/readings", "能耗抄表"], ["🔋", "计量", "/api/meters", "计量设备"], ["🚨", "告警", "/api/alarms", "能耗告警"]], "tokenKey": "feipu_energy_m_token", "key": "feipuenergy", "login": "/api/auth/login", "user": "admin", "pwd": "energy@2026"};

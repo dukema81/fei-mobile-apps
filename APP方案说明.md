@@ -77,3 +77,24 @@
 - 生成器与配置：mobile-apps/gen_all.py（24 份 CONFIGS）、验收脚本 check_all.py、立项清单.md
 - 各项目内嵌：fei*/mobile/（index.html、config.js、app.js、style.css、manifest.webmanifest、sw.js、icon.svg）
 - 线上：24 个 /<prefix>/m/ 站点；GitHub：dukema81/fei-mobile-apps（本方案+生成器+全部APP源码）
+
+
+## 九、专属 Logo 体系（V2，2026-10-24）
+
+24 个 APP 各配一枚**领域化专属 Logo**（`gen_logos.py` 统一产出，512×512 矢量 SVG）：
+主题色渐变圆角底 + 细描边内环 + 白色业务图形（挖空细节以深底色呈现），一系统一图形，杜绝"首字圆章"同质化：
+
+| APP | 图形 | APP | 图形 | APP | 图形 |
+|---|---|---|---|---|---|
+| 飞洋OTMS | 锚与海浪 | 飞融FMS | ¥钱币堆叠 | 飞售RMS | 店铺雨棚 |
+| 飞餐RMS | 碗与筷 | 飞医HIS | 医疗十字 | 飞税 | 盾牌税率 |
+| 飞效OA | 审批清单勾选 | 飞育 | 学士帽 | 飞运TMS | 货运卡车 |
+| 飞划APS | 齿轮+排产条 | 飞瀑 | 闪电能量 | 飞奔 | 成本占比饼图 |
+| 飞花HRM | 团队人群 | 飞控QMS | 质检放大镜✓ | 飞传WMS | 仓储库房 |
+| 飞驰MES | 工厂产线 | 飞泉SCM | 供应链链环 | 飞鸢ERP | 全球模块网格 |
+| 飞鹰CRM | 客户靶心 | 飞流BPM | 流程双节点 | 飞虹 | K线趋势 |
+| 飞扬 | 关务盾章 | 飞云 | 天平账目 | 飞物 | 数据柱图 |
+
+- 生成器已集成：`gen_all.py` 重新生成任意 APP 时自动带出新 Logo
+- 预览总览页：`mobile-apps/logo/index.html`
+- 已同步：各项目 mobile/icon.svg、中央仓库 apps/*/mobile/icon.svg
